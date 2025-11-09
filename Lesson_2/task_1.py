@@ -1,2 +1,3 @@
-number = input('Enter a number: ')
-print(int(number) ** 2)
+number = input('Enter number: ')
+square = int(number) ** 2
+print('square number:', square)
